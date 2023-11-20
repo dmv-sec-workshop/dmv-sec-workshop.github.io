@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-home_title: <b>The Holistic Forum of Medical Robotics Junior Professors @ ISMR 2023</b>
+home_title: <b>DMV Security Workshop 2024</b>
 subtitle:
 nav_title: Home
 permalink: /
