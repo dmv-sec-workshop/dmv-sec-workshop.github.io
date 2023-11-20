@@ -5,7 +5,7 @@ home_title: <b>DMV Security Workshop 2024</b>
 subtitle:
 nav_title: Home
 permalink: /
-description: A workshop to bring together junior professors in the field of medical robotics.
+description: Explore the forefront of security research at our exclusive workshop, uniting aspiring researchers from Washington D.C., Maryland, and Virginia.
 ---
 
 # Workshop at a Glance

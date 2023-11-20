@@ -7,7 +7,7 @@ last_name:
 title: DMV Security Workshop 2024 # the website title (if blank, full name will be used instead)
 email: loris@wpi.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A workshop to bring together junior professors in the field of medical robotics.
+  Explore the forefront of security research at our exclusive workshop, uniting aspiring researchers from Washington D.C., Maryland, and Virginia.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
