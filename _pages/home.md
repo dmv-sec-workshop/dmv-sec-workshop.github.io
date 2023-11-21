@@ -13,8 +13,8 @@ We aim to provide a venue where aspring scholars from **Washington D.C.**, **Mar
 
 This workshop will be an **in-person event** at Rice Hall in the beautiful campus of the University of Virginia, taking place on <b>March 4th, 2024</b> from **10:30am** to **5:30pm**. The session will cover speed advising, faculty/students lightning talks and break-out discussion sessions.
 
-# Speakers
-<!-- 
+<!-- # Speakers
+
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Farshid Alambeigi" affiliation="The University of Texas at Austin" url="https://www.me.utexas.edu/people/faculty-directory/alambeigi" img="/assets/img/people/farshid.jpg" %}
 
@@ -38,9 +38,9 @@ This workshop will be an **in-person event** at Rice Hall in the beautiful campu
 
   {% include people_horizontal.html name="Jie Ying Wu" affiliation="Vanderbilt University" url="https://engineering.vanderbilt.edu/bio/jieying-wu" img="/assets/img/people/jie.jpg" %}
 
-</div> -->
+</div>
 
-<!-- # Roundtable Panelists
+ # Roundtable Panelists
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Jessica Burgner-Kahrs" affiliation="University of Toronto" url="https://www.utm.utoronto.ca/math-cs-stats/people/jessica-burgner-kahrs" img="/assets/img/people/jessica.jpg" %}
 
@@ -64,7 +64,10 @@ This workshop will be an **in-person event** at Rice Hall in the beautiful campu
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Wajih Ul Hassan" affiliation="University of Virginia" url="https://www.cs.virginia.edu/~hur7wv/" img="/assets/img/people/wajih-2.jpg" %}
   {% include people_horizontal.html name="Farshid Alambeigi" affiliation="Virginia Polytechnic Institute and State University" url="https://people.cs.vt.edu/penggao/" img="/assets/img/people/penggao.jpg" %}
-  <!-- {% include people_horizontal.html name="Jie Ying Wu" affiliation="Vanderbilt University" url="https://engineering.vanderbilt.edu/bio/jieying-wu" img="/assets/img/people/jie.jpg" %}
-  {% include people_horizontal.html name="Robert J. Webster" affiliation="Vanderbilt University" url="https://engineering.vanderbilt.edu/bio/robert-webster/" img="assets/img/people/bob.jpg" %}
-  {% include people_horizontal.html name="Loris Fichera" affiliation="Worcester Polytechnic Institute" img="assets/img/people/loris.jpg" url="https://www.wpi.edu/people/faculty/lfichera" %} -->
+</div>
+
+# Student Organizers
+<div class="row row-cols-2 projects pt-3 pb-3">
+  {% include people_horizontal.html name="Wajih Ul Hassan" affiliation="University of Virginia" url="https://www.cs.virginia.edu/~hur7wv/" img="/assets/img/people/wajih-2.jpg" %}
+  {% include people_horizontal.html name="Farshid Alambeigi" affiliation="Virginia Polytechnic Institute and State University" url="https://people.cs.vt.edu/penggao/" img="/assets/img/people/penggao.jpg" %}
 </div>
