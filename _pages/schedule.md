@@ -9,23 +9,16 @@ nav_order: 1
 
 | **Time (EST)**{: .h5} |  |
 | :-----:   | :----- |
-| 8:45 | **Welcome and Opening Remarks** |
-| 8:50 | **Lueder Kahrs**: Vision-based Control of Tissue Ablation and Cutting |
-| 9:10 | **Margaret Coad**: Soft Inflatable Medical Robots: Enabling New Capabilities for Patient Care |
-| 9:30 | **Tania Morimoto**: Surgical Robot Design: From Patient- to Surgeon-Side Devices |
-| 10:00 | Coffee Break |
-| 10:30 | **Nicholas P. Fey**: Accounting for the Intention, Form and Objective of Wearers of Assistive Devices during Ambulation through Peripheral Sensing and Predictive Modeling |
-| 10:50 | **Yash Chitalia**: Concentric tendon-driven robots: A paradigm for the future?|
-| 11:10 | **Sheila Russo**: Addressing challenges in MIS through Soft Robotics|
-| 11:30 | **Alan Kuntz**: Autonomously Manipulating Deformable Tissue and Novel Micro-Scale Continuum Robots|
-| 12:00 | Lunch Break |
-| 1:30 | **S. Farokh Atashzar**: From Muscles to Machines: Decoding Human Intent for Neurorobot Control |
-| 1:50 | **Farshid Alambeigi**: Robotic Surgineering, from Spinal Fixation to Volumetric Muscle Loss Bioprinting |
-| 2:10 | **Loris Fichera**: Beyond the Operating Room: Surgical Robots in Clinic |
-| 2:30 | **Jie Ying Wu**: Building Better Tools For Surgical Training And Guidance Through Machine Learning And Augmented Reality |
-| 3:00 | Coffee Break |
-| 3:30 | **Round Table** |
-| 5:00 | Closing Remarks & End of Workshop |
+| 10:30 - 11:00 | Registration and Coffee |
+| 11:00 - 11:10 | **Welcome and Overview** |
+| 11:10 - 12:00 | **Keynote** |
+| 12:00 - 1:30 | **Lunch and Student Poster Session** |
+| 1:30 - 2:45 | **Speed Advising**: Speed advising sessions enable students to meet for 10-15 minutes each with faculty from other universities. Mentors will stay in place, and students will come to them |
+| 2:45 - 3:15 | break |
+| 3:15 - 4:15 | **Lightning Talks** |
+| 4:15 - 5:15 | **Break-out Discussion Sessions**: faculty will be divided into groups based on research areas, and sit at different tables for students to come and talk to |
+| 5:15 - 5:30 | **Concluding Remarks** |
+| 5:30 | Dinner/Social |
 {: .table}
 {: .table-striped}
 
