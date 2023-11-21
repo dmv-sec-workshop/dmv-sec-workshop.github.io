@@ -11,10 +11,10 @@ description: Explore the forefront of security research at our exclusive worksho
 # Workshop at a Glance
 We aim to provide a venue where aspring scholars from **Washington D.C.**, **Maryland**, and **Virginia** can interact, brainstorm, network, and establish new collaborations. Furthermore, this workshop will bring together senior professors from to provide advice on research and career path.
 
-This workshop will be an **in-person event** at Rice Hall in the beautiful campus of university of Virginia, taking place on <b>March 4th, 2024</b> from **10:30am** to **5:30pm**. The session will cover speed advising, faculty/students lightning talks and a break-out discussion sessions.
+This workshop will be an **in-person event** at Rice Hall in the beautiful campus of the University of Virginia, taking place on <b>March 4th, 2024</b> from **10:30am** to **5:30pm**. The session will cover speed advising, faculty/students lightning talks and break-out discussion sessions.
 
 # Speakers
-
+<!-- 
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Farshid Alambeigi" affiliation="The University of Texas at Austin" url="https://www.me.utexas.edu/people/faculty-directory/alambeigi" img="/assets/img/people/farshid.jpg" %}
 
@@ -38,9 +38,9 @@ This workshop will be an **in-person event** at Rice Hall in the beautiful campu
 
   {% include people_horizontal.html name="Jie Ying Wu" affiliation="Vanderbilt University" url="https://engineering.vanderbilt.edu/bio/jieying-wu" img="/assets/img/people/jie.jpg" %}
 
-</div>
+</div> -->
 
-# Roundtable Panelists
+<!-- # Roundtable Panelists
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Jessica Burgner-Kahrs" affiliation="University of Toronto" url="https://www.utm.utoronto.ca/math-cs-stats/people/jessica-burgner-kahrs" img="/assets/img/people/jessica.jpg" %}
 
@@ -57,12 +57,12 @@ This workshop will be an **in-person event** at Rice Hall in the beautiful campu
   {% include people_horizontal.html name="Pietro Valdastri" affiliation="University of Leeds" url="https://eps.leeds.ac.uk/electronic-engineering/staff/863/professor-pietro-valdastri" img="/assets/img/people/pietro.jpg" %}
 
 
-</div>
+</div> -->
 
 
 # Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="S. Farokh Atashzar" affiliation="New York University" url="https://engineering.nyu.edu/faculty/s-farokh-atashzar" img="/assets/img/people/farokh.jpg" %}
+  {% include people_horizontal.html name="Wajih Ul Hassan" affiliation="The University of Virginia" url="https://www.cs.virginia.edu/~hur7wv/" img="/assets/img/people/wajih-2.jpg" %}
   {% include people_horizontal.html name="Farshid Alambeigi" affiliation="The University of Texas at Austin" url="https://www.me.utexas.edu/people/faculty-directory/alambeigi" img="/assets/img/people/farshid.jpg" %}
   {% include people_horizontal.html name="Jie Ying Wu" affiliation="Vanderbilt University" url="https://engineering.vanderbilt.edu/bio/jieying-wu" img="/assets/img/people/jie.jpg" %}
   {% include people_horizontal.html name="Robert J. Webster" affiliation="Vanderbilt University" url="https://engineering.vanderbilt.edu/bio/robert-webster/" img="assets/img/people/bob.jpg" %}
