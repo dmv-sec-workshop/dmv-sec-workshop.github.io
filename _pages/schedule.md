@@ -9,15 +9,15 @@ nav_order: 1
 
 | **Time (EST)**{: .h5} |  |
 | :-----:   | :----- |
-| 10:30 - 11:00 | Registration and Coffee |
-| 11:00 - 11:10 | **Welcome and Overview** |
-| 11:10 - 12:00 | **Keynote** |
-| 12:00 - 1:30 | **Lunch and Student Poster Session** |
-| 1:30 - 2:45 | **Speed Advising**: Speed advising sessions enable students to meet for 10-15 minutes each with faculty from other universities. Mentors will stay in place, and students will come to them |
-| 2:45 - 3:15 | break |
-| 3:15 - 4:15 | **Lightning Talks** |
-| 4:15 - 5:15 | **Break-out Discussion Sessions**: faculty will be divided into groups based on research areas, and sit at different tables for students to come and talk to |
-| 5:15 - 5:30 | **Concluding Remarks** |
+| 10:30 | Registration and Coffee |
+| 11:00 | **Welcome and Overview** |
+| 11:10 | **Keynote** |
+| 12:00 | **Lunch and Student Poster Session** |
+| 1:30 | **Speed Advising**: Speed advising sessions enable students to meet for 10-15 minutes each with faculty from other universities. Mentors will stay in place, and students will come to them |
+| 2:45 | break |
+| 3:15 | **Lightning Talks** |
+| 4:15 | **Break-out Discussion Sessions**: faculty will be divided into groups based on research areas, and sit at different tables for students to come and talk to |
+| 5:15 | **Concluding Remarks** |
 | 5:30 | Dinner/Social |
 {: .table}
 {: .table-striped}
