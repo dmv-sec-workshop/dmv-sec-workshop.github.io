@@ -254,6 +254,7 @@ blockquote {
   border: 0;
   background-color: inherit;
   color: var(--global-text-color);
+  margin-top: 10px; /* Adjust as needed */
   &:hover {
     color: var(--global-hover-color);
   }
