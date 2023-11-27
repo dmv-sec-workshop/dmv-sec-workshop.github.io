@@ -175,6 +175,11 @@ blockquote {
       color: var(--global-hover-color);
     }
   }
+  .navbar-brand img {
+    height: 50px; /* Adjust as needed */
+    width: 50px; /* Adjust as needed */
+    margin-right: 10px; /* Adjust as needed */
+  }
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
     &:hover {
