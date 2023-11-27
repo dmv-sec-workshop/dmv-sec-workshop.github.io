@@ -185,6 +185,8 @@ blockquote {
     &:hover {
       color: var(--global-hover-color);
     }
+    /* adjust the padding to move the text */
+    padding: 20px 20px;
   }
   .navbar-nav .nav-item.active>.nav-link {
       background-color: inherit;
