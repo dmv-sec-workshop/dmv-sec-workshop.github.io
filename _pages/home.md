@@ -31,13 +31,13 @@ Click here for the free registration: TBD
 # Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Wajih Ul Hassan" affiliation="University of Virginia" url="https://www.cs.virginia.edu/~hur7wv/" img="/assets/img/people/wajih-2.jpg" %}
-  {% include people_horizontal.html name="Peng Gao" affiliation="Virginia Polytechnic Institute and State University" url="https://people.cs.vt.edu/penggao/" img="/assets/img/people/penggao.jpg" %}
+  {% include people_horizontal.html name="Peng Gao" affiliation="Virginia Tech" url="https://people.cs.vt.edu/penggao/" img="/assets/img/people/penggao.jpg" %}
 </div>
 
 # Student Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Muhammad Shoaib" affiliation="University of Virginia" url="https://www.cs.virginia.edu/~hur7wv/" img="/assets/img/people/shoaib.jpeg" %}
-  {% include people_horizontal.html name="Anne Zhang" affiliation="University of Virginia" url="https://people.cs.vt.edu/penggao/" img="/assets/img/people/anne-2.png" %}
-  {% include people_horizontal.html name="Yutong Cheng" affiliation="Virginia Polytechnic Institute and State University" url="https://ccsnow127.github.io" img="/assets/img/people/yutong-2.jpg" %}
-  {% include people_horizontal.html name="Osama Bajaber" affiliation="Virginia Polytechnic Institute and State University" url="https://obajaber.github.io" img="/assets/img/people/Osama-2.png" %}
+  {% include people_horizontal.html name="Anne Zhang" affiliation="University of Virginia" url="https://www.cs.virginia.edu/~hur7wv/" img="/assets/img/people/anne-2.png" %}
+  {% include people_horizontal.html name="Yutong Cheng" affiliation="Virginia Tech" url="https://ccsnow127.github.io" img="/assets/img/people/yutong-2.jpg" %}
+  {% include people_horizontal.html name="Osama Bajaber" affiliation="Virginia Tech" url="https://obajaber.github.io" img="/assets/img/people/Osama-2.png" %}
 </div>
