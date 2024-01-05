@@ -24,7 +24,7 @@ Click here for the free registration: TBD
 
 # Keynote Speaker
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Dr. Danfeng (Daphne) Yao" affiliation="Virginia Tech" url="" img="/assets/img/people/daphane.jpeg" %}
+  {% include people_horizontal.html name="Dr. Danfeng (Daphne) Yao" affiliation="Virginia Tech" url="https://people.cs.vt.edu/danfeng/" img="/assets/img/people/daphne.jpeg" %}
 </div>
 
 
