@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 
-<!-- | <span>**Time (EST)**</span> |
+| <span>**Time (EST)**</span> |
 | :----- |
 | 10:30 | Registration and Coffee |
 | 11:00 | **Welcome and Overview** |
@@ -20,8 +20,8 @@ nav_order: 1
 | 5:15 | **Concluding Remarks** |
 | 5:30 | Dinner/Social (On your own) |
 {: .table}
-{: .table-striped} -->
-| <span class="wide-column">**Time (EST)**</span> | Event |
+{: .table-striped}
+<!-- | <span class="wide-column">**Time (EST)**</span> | Event |
 | :--- | :--- |
 | <span class="wide-column">10:30</span> | Registration and Coffee |
 | <span class="wide-column">11:00</span> | **Welcome and Overview** |
@@ -34,5 +34,5 @@ nav_order: 1
 | <span class="wide-column">5:15</span> | **Concluding Remarks** |
 | <span class="wide-column">5:30</span> | Dinner/Social (On your own) |
 {: .table}
-{: .table-striped}
+{: .table-striped} -->
 
