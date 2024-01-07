@@ -8,7 +8,7 @@ nav_order: 1
 
 
 | <span>**Time (EST)**</span> |
-| :-----:   | :----- |
+| :----- |
 | 10:30 | Registration and Coffee |
 | 11:00 | **Welcome and Overview** |
 | 11:10 | **Keynote** |
