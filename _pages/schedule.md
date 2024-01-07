@@ -21,8 +21,8 @@ nav_order: 1
 | 5:30 | Dinner/Social (On your own) |
 {: .table}
 {: .table-striped} -->
-| <span class="wide-column">**Time (EST)**</span> |
-| :----- |
+| <span class="wide-column">**Time (EST)**</span> | Event |
+| :--- | :--- |
 | <span class="wide-column">10:30</span> | Registration and Coffee |
 | <span class="wide-column">11:00</span> | **Welcome and Overview** |
 | <span class="wide-column">11:10</span> | **Keynote** |
