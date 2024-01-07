@@ -20,7 +20,7 @@ DMV Security Workshop 2024
 
 # Registration
 
-Click here for the free registration: TBD
+Click here for free registration: [Link](https://virginia.az1.qualtrics.com/jfe/form/SV_40dKgeBY8bQqrMW)
 
 # Keynote Speaker
 <div class="row row-cols-2 projects pt-3 pb-3">
