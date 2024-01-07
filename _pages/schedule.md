@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 
-| <td colspan="2">**Time (EST)**{: .h5}</td> |
+| **Time (EST)** |
 | :-----:   | :----- |
 | 10:30 | Registration and Coffee |
 | 11:00 | **Welcome and Overview** |
