@@ -16,11 +16,9 @@ This workshop will be an `in-person event` at Rice Hall in the beautiful campus 
 
 The event is open to all researchers in the field from the DMV area. To encourage broad participation, registration for the workshop is free. We will provide coffee and light snacks during breaks, but participants are on their own for covering the costs of all other food, transportation, accommodations (if applicable), and other logistics.
 
-DMV Security Workshop 2024
-
 # Registration
 
-Click here for free registration: [Link](https://virginia.az1.qualtrics.com/jfe/form/SV_40dKgeBY8bQqrMW)
+Click here for free registration: [Link](https://virginia.az1.qualtrics.com/jfe/form/SV_40dKgeBY8bQqrMW). Registration deadline on `February 18th, 2024`.
 
 # Keynote Speaker
 <div class="row row-cols-2 projects pt-3 pb-3">
