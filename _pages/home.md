@@ -18,7 +18,7 @@ The event is open to all researchers in the field from the DMV area. To encourag
 
 # Registration
 
-Click here for free registration: [Link](https://virginia.az1.qualtrics.com/jfe/form/SV_40dKgeBY8bQqrMW). Please note that the deadline to register is `February 15th, 2024`.
+<s>Click here for free registration: [Link]. Please note that the deadline to register is `February 15th, 2024`.</s>
 
 # Keynote Speaker
 <div class="row row-cols-2 projects pt-3 pb-3">
