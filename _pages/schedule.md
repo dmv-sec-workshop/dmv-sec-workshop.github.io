@@ -5,8 +5,6 @@ title: Schedule
 nav: true
 nav_order: 1
 ---
-
-
 | **Time (EST)**{: .h5} |
 | :----- |
 | 10:30 | Registration and Coffee |
