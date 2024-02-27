@@ -34,9 +34,8 @@ The event is open to all researchers in the field from the DMV area. To encourag
 
 # Student Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Muhammad Shoaib" affiliation="University of Virginia" url="" img="/assets/img/people/shoaib.jpeg" %}
-  {% include people_horizontal.html name="Anne Zhang" affiliation="University of Virginia" url="" img="/assets/img/people/anne-2.png" %}
-  <!-- {% include people_horizontal.html name="Mati Ur Rehman" affiliation="University of Virginia" url=" img="/assets/img/people/mati.jpeg" %} -->
+  {% include people_horizontal.html name="Muhammad Shoaib" affiliation="University of Virginia" url="https://www.linkedin.com/in/mshoaib6/" img="/assets/img/people/shoaib.jpeg" %}
+  {% include people_horizontal.html name="Anne Zhang" affiliation="University of Virginia" url="https://www.linkedin.com/in/anne-zhang1204/" img="/assets/img/people/anne-2.png" %}
   {% include people_horizontal.html name="Yutong Cheng" affiliation="Virginia Tech" url="https://ccsnow127.github.io" img="/assets/img/people/yutong-2.jpg" %}
   {% include people_horizontal.html name="Osama Bajaber" affiliation="Virginia Tech" url="https://obajaber.github.io" img="/assets/img/people/Osama-2.png" %}
 </div>
