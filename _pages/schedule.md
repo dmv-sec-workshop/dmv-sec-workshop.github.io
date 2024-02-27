@@ -18,6 +18,9 @@ nav_order: 1
 | 3:15 | **Lightning Talks**: Ten-minute talks to introduce your research 
 <br>&bull; <img src="/assets/img/people/xiaokuan-2020-150x200.jpg"  width="150" /></div>&nbsp;<a href="https://cs.gmu.edu/directory/detail/131/">Xiaokuan Zhang</a> (<span style="font-style: italic;">George Mason University</span>) discussing <span class="session">Security and Privacy Issues in the Era of Web3 and Metaverse</span> 
 <br>&bull; <img src="/assets/img/people/huajie.jpg"  width="150" /></div>&nbsp;<a href="https://shj1987.github.io/">Huajie Shao</a> (<span style="font-style: italic;">William & Mary</span>) discussing <span class="session">Lens: A Foundation Model for Network Traffic in Cybersecurity</span> 
+<br>&bull; <img src="/assets/img/people/tanghoong.jpeg"  width="150" /></div>&nbsp;<a href="https://thanghoang.github.io/">Thang Hoang</a> (<span style="font-style: italic;">Virginia Tech</span>) discussing <span class="session">Privacy-Preserving and Trustworthy Data Outsourcing</span> 
+<br />|
+<br>&bull; <img src="/assets/img/people/Y.Sun01.jpeg"  width="150" /></div>&nbsp;<a href="https://engineering.virginia.edu/faculty/yixin-sun">Yixin Sun</a> (<span style="font-style: italic;">University of Virginia</span>) discussing <span class="session">Application-Driven Network Security</span> 
 <br />|
 | 4:15 | **Break-out Discussion Sessions**: Faculty will be divided into groups based on research areas, and sit at different tables for students to come and talk to |
 | 5:15 | **Concluding Remarks** |
