@@ -13,6 +13,7 @@ hr {
 }
 
 table {
+  width: 80%; // This will make the table as wide as its container
   td, th {
     color: var(--global-text-color);
   }
