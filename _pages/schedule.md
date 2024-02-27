@@ -15,7 +15,8 @@ nav_order: 1
 | 12:00 | **Lunch and Student Poster Session** |
 | 1:30 | **Speed Advising**: Speed advising sessions enable students to meet for 10-15 minutes each with faculty from other universities. Mentors will stay in place, and students will come to them |
 | 2:50 | Break |
-| 3:15 | **Lightning Talks**: Ten-minute talks to introduce your research |
+| 3:15 | **Lightning Talks**: Ten-minute talks to introduce your research 
+<br>&bull; <img src="assets/img/people/xiaokuan-2020-150x200.jpg"  width="150" /></div>&nbsp;<a href="https://cs.gmu.edu/directory/detail/131/">Xiaokuan Zhang</a> (<span style="font-style: italic;">George Mason University</span>) discussing <span class="session">Security and Privacy Issues in the Era of Web3 and Metaverse</span> <br />|
 | 4:15 | **Break-out Discussion Sessions**: Faculty will be divided into groups based on research areas, and sit at different tables for students to come and talk to |
 | 5:15 | **Concluding Remarks** |
 | 5:30 | Dinner/Social (On your own) |
