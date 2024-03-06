@@ -8,7 +8,7 @@ permalink: /
 description: Explore the forefront of security research at our exclusive workshop, uniting aspiring researchers from Washington D.C., Maryland, and Virginia.
 ---
 
-`UPDATE:` The DMV Secuirty Workshop 2024 was a great success! A huge thank you to all the speakers and attendees for making it possible!
+`UPDATE:` The DMV Security Workshop 2024 was a great success! A huge thank you to all the speakers and attendees for making it possible!
 
 <img src="/assets/img/DMV_WRKSHP_GROUP_PIC.jpg" alt="Group image" width="1000" height="750">
 
