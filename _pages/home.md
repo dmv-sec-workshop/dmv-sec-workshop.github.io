@@ -11,7 +11,7 @@ description: Explore the forefront of security research at our exclusive worksho
 `UPDATE:` The DMV Security Workshop 2024 was a great success! A huge thank you to all the speakers and attendees for making it possible!
 
 <div class="container">
-  <img src="/assets/img/DMV_WRKSHP_GROUP_PIC.jpg" alt="Group image"">
+  <img src="/assets/img/DMV_WRKSHP_GROUP_PIC.jpg" class="img-fluid" alt="Group image">
 </div>
 
 # Workshop at a Glance
