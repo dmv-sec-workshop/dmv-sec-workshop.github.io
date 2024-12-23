@@ -1,9 +1,10 @@
 ---
 layout: page
-permalink: /schedule/
-title: Schedule
+permalink: /schedule-2024/
+title: Schedule 2024
 nav: false
-nav_order: 1
+nav_order: 2
+escription: Explore the forefront of security research at our exclusive workshop, uniting aspiring researchers from Washington D.C., Maryland, and Virginia.
 ---
 | **Time (EST)**{: .h5} |
 | :----- |

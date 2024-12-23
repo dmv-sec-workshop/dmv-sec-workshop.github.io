@@ -1,11 +1,10 @@
 ---
-layout: home
-title: Home
-home_title: <b>DMV Security Workshop 2025</b>
-subtitle:
-nav_title: Home
-permalink: /
-description: Explore the forefront of security research at our exclusive workshop, uniting aspiring researchers from Washington D.C., Maryland, and Virginia.
+layout: page
+permalink: /previous-event-2024/
+title: DMV Security Workshop 2024
+nav: false
+nav_order: 2
+escription: Explore the forefront of security research at our exclusive workshop, uniting aspiring researchers from Washington D.C., Maryland, and Virginia.
 ---
 
 `UPDATE:` The DMV Security Workshop 2024 was a great success! A huge thank you to all the speakers and attendees for making it possible!
@@ -22,13 +21,16 @@ This workshop will be an `in-person event` at Rice Hall in the beautiful campus 
 
 The event is open to all researchers in the field from the DMV area. To encourage broad participation, registration for the workshop is free. We will provide coffee and light snacks during breaks, but participants are on their own for covering the costs of all other food, transportation, accommodations (if applicable), and other logistics.
 
+# Schedule
+For the full schedule of the DMV Workshop 2024, <a href="https://dmv-sec-workshop.github.io/schedule-2024" target="_self">Click Here</a>
+
 # Registration
 
 <s>Click here for free registration: Link. Please note that the deadline to register is February 15th, 2024.</s>
 
 # Keynote Speaker
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="TBA" img="/assets/img/people/placeholder_profile.png" %}
+  {% include people_horizontal.html name="Dr. Danfeng (Daphne) Yao" affiliation="Virginia Tech" url="https://people.cs.vt.edu/danfeng/" img="/assets/img/people/daphne.jpeg" %}
 </div>
 
 
@@ -43,6 +45,6 @@ The event is open to all researchers in the field from the DMV area. To encourag
   {% include people_horizontal.html name="Muhammad Shoaib" affiliation="University of Virginia" url="https://www.linkedin.com/in/mshoaib6/" img="/assets/img/people/shoaib.jpeg" %}
   {% include people_horizontal.html name="Anne Zhang" affiliation="University of Virginia" url="https://www.linkedin.com/in/anne-zhang1204/" img="/assets/img/people/anne-2.png" %}
   {% include people_horizontal.html name="Mati Ur Rehman" affiliation="University of Virginia" url="https://www.linkedin.com/in/mati-ur-rehman-02949a157/" img="/assets/img/people/mati.jpeg" %}
+  {% include people_horizontal.html name="Yutong Cheng" affiliation="Virginia Tech" url="https://ccsnow127.github.io" img="/assets/img/people/yutong-2.jpg" %}
   {% include people_horizontal.html name="Osama Bajaber" affiliation="Virginia Tech" url="https://obajaber.github.io" img="/assets/img/people/Osama-2.png" %}
-  {% include people_horizontal.html name="Saimon Tsegai" affiliation="Virginia Tech" url="https://49simoney.vercel.app" img="/assets/img/people/saimon.jpeg" %}
 </div>

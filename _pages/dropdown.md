@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
-nav: false
-nav_order: 6
+title: Previous Events
+nav: true
+nav_order: 2
 dropdown: true
 children:
-    - title: publications
-      permalink: /publications/
-    - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: 2024
+      permalink: /previous-event-2024/
+    # - title: divider
+    # - title: projects
+    #   permalink: /projects/
 ---
