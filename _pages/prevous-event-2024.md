@@ -40,13 +40,7 @@ The event is open to all researchers in the field from the DMV area. To encourag
 
 # Registration
 
-<s>Click here for free registration: Link. Please note that the deadline to register is February 15th, 2024.</s>
-
-# Keynote Speaker
-<div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Dr. Danfeng (Daphne) Yao" affiliation="Virginia Tech" url="https://people.cs.vt.edu/danfeng/" img="/assets/img/people/daphne.jpeg" %}
-</div>
-
+<s>Click here for free registration: Link. Please note that the deadline to register is February 15th, 2024.</s><br>
 
 # Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
