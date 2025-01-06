@@ -13,6 +13,8 @@ escription: Explore the forefront of security research at our exclusive workshop
   <img src="/assets/img/DMV_WRKSHP_GROUP_PIC.jpg" class="img-fluid" alt="Group image">
 </div>
 
+<br>
+
 # Workshop at a Glance
 
 The DMV Security Workshop is launching its inaugural event in the 2023-2024 academic year. This new series aims to unite researchers in computer security and privacy from `Washington DC`, `Maryland`, and `Virginia`.

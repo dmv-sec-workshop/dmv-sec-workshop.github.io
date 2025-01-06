@@ -8,23 +8,17 @@ permalink: /
 description: Explore the forefront of security research at our exclusive workshop, uniting aspiring researchers from Washington D.C., Maryland, and Virginia.
 ---
 
-`UPDATE:` The DMV Security Workshop 2024 was a great success! A huge thank you to all the speakers and attendees for making it possible!
-
-<div class="container">
-  <img src="/assets/img/DMV_WRKSHP_GROUP_PIC.jpg" class="img-fluid" alt="Group image">
-</div>
-
 # Workshop at a Glance
 
-The DMV Security Workshop is launching its inaugural event in the 2023-2024 academic year. This new series aims to unite researchers in computer security and privacy from `Washington DC`, `Maryland`, and `Virginia`.
+The DMV Security Workshop is launching its second event in the 2024-2025 academic year! This series aims to unite researchers in computer security and privacy from `Washington, D.C.`, `Maryland`, and `Virginia`.
 
-This workshop will be an `in-person event` at Rice Hall in the beautiful campus of the University of Virginia, taking place on `March 4th, 2024` from `10:30am` to `5:30pm`. The session will cover <b>speed advising</b>, <b>faculty/students lightning talks</b> and <b>break-out discussion sessions</b>. Unlike traditional conferences, DMV Security Workshop emphasizes future collaborations over past work presentations, offering a unique platform for seeding new partnerships and ideas.
+This workshop will be an `in-person event` at the Virginia Tech Research Center - Arlington, 900 N. Glebe Road, Second Floor, Arlington, VA 22203, on `March 28th, 2025`. The program will include speed advising, lightning talks by faculty and students, and breakout discussion sessions. Unlike traditional conferences, the DMV Security Workshop emphasizes future collaborations over past work presentations, offering a unique platform for seeding new partnerships and ideas.
 
-The event is open to all researchers in the field from the DMV area. To encourage broad participation, registration for the workshop is free. We will provide coffee and light snacks during breaks, but participants are on their own for covering the costs of all other food, transportation, accommodations (if applicable), and other logistics.
+The event is open to all researchers in the field from the DMV area. To encourage broad participation, registration is free. Coffee and light snacks will be provided during breaks; however, participants are on their own for covering the costs of meals, transportation, accommodations, and other logistics.
 
 # Registration
 
-<s>Click here for free registration: Link. Please note that the deadline to register is February 15th, 2024.</s><br>
+To Be Announced Soon!<br>
 
 # Keynote Speaker
 <div class="row row-cols-2 projects pt-3 pb-3">
