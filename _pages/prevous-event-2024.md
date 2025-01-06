@@ -7,6 +7,16 @@ nav_order: 2
 escription: Explore the forefront of security research at our exclusive workshop, uniting aspiring researchers from Washington D.C., Maryland, and Virginia.
 ---
 
+<div style="
+    background-image: url('/assets/img/uva.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center bottom;
+    height: 20em;
+    margin-bottom: 2em;
+">
+</div>
+
 `UPDATE:` The DMV Security Workshop 2024 was a great success! A huge thank you to all the speakers and attendees for making it possible!
 
 <div class="container">

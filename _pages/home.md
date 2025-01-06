@@ -8,6 +8,16 @@ permalink: /
 description: Explore the forefront of security research at our exclusive workshop, uniting aspiring researchers from Washington D.C., Maryland, and Virginia.
 ---
 
+<div style="
+    background-image: url('/assets/img/VT.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 20em;
+    margin-bottom: 2em;
+">
+</div>
+
 # Workshop at a Glance
 
 The DMV Security Workshop is launching its second event in the 2024-2025 academic year! This series aims to unite researchers in computer security and privacy from `Washington, D.C.`, `Maryland`, and `Virginia`.

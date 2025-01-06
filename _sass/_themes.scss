@@ -36,15 +36,6 @@
   }
 }
 
-.header-background .img {
-  background-image: url("../img/uva.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center bottom;
-  height: 20em;
-  margin-bottom: 2em;
-  margin-top: 2.8em;
-}
 
 html[data-theme='dark'] {
   --global-bg-color: #{$grey-color-dark};
@@ -78,14 +69,4 @@ html[data-theme='dark'] {
     display: block;
   }
 
-  .header-background .img {
-    background-image: url("../img/uva.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center bottom;
-    height: 20em;
-    margin-bottom: 2em;
-    margin-top: 2.8em;
-    //filter: invert(89%);
-  }
 }
