@@ -12,7 +12,7 @@ description: Explore the forefront of security research at our exclusive worksho
     background-image: url('/assets/img/VT.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: center -7em;
     height: 20em;
     margin-bottom: 2em;
 ">
@@ -26,9 +26,13 @@ This workshop will be an `in-person event` at the Virginia Tech Research Center 
 
 The event is open to all researchers in the field from the DMV area. To encourage broad participation, registration is free. Coffee and light snacks will be provided during breaks; however, participants are on their own for covering the costs of meals, transportation, accommodations, and other logistics.
 
+# Schedule
+
+To Be Announced Soon!<br><br>
+
 # Registration
 
-To Be Announced Soon!<br>
+To Be Announced Soon!<br><br>
 
 # Keynote Speaker
 <div class="row row-cols-2 projects pt-3 pb-3">
