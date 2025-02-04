@@ -49,7 +49,7 @@ To Be Announced Soon!<br><br>
 
 # Keynote Speaker
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Prof. Giuseppe Ateniese" url="https://ateniese.github.io/" img="/assets/img/people/Giuseppe_Ateniese.jpeg" %}
+  {% include people_horizontal.html name="Prof. Giuseppe Ateniese" affiliation="George Mason University" url="https://ateniese.github.io/" img="/assets/img/people/Giuseppe_Ateniese.jpeg" %}
 </div>
 
 
