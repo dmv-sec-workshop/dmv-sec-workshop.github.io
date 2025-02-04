@@ -29,8 +29,8 @@ jobs:
     - name: Update Bundler & Install Gems
       run: |
         gem install bundler
-        bundle update --bundler
         bundle install
+        bundle update --bundler
     - name: Install deps
       run: |
         npm install -g mermaid.cli
