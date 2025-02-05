@@ -18,7 +18,7 @@ description: Explore the forefront of security research at our exclusive worksho
 ">
 </div>
 
-# Workshop at a Glance
+## Workshop at a Glance
 
 The DMV Security Workshop is launching its second event in the 2024-2025 academic year! This series aims to unite researchers in computer security and privacy from `Washington, D.C.`, `Maryland`, and `Virginia`.
 
@@ -26,17 +26,17 @@ This workshop will be an `in-person event` at the Virginia Tech Research Center 
 
 The event is open to all researchers in the field from the DMV area. To encourage broad participation, registration is free. Coffee and light snacks will be provided during breaks; however, participants are on their own for covering the costs of meals, transportation, accommodations, and other logistics.
 
-# Registration
+## Registration
 
-To Be Announced Soon!<br><br>
+Click [here](https://virginia.az1.qualtrics.com/jfe/form/SV_3eAm85xi487tFlQ) for free registration<br><br>
 
-# Schedule
+## Schedule
 
 | **Time (EST)**{: .h5} |
 | :----- |
 | 9:30 | Registration and Coffee |
 | 9:50 | **Welcome and Overview** |
-| 10:00 | **Keynote Talk**<br> <a href="https://cs.gmu.edu/directory/detail/131/"><b>Prof. Giuseppe Ateniese</b></a> <br> <br><img src="/assets/img/people/Giuseppe_Ateniese.jpeg" width="150"> <br><br>**Biography**<br>Giuseppe Ateniese is a Professor, Eminent Scholar in Cybersecurity and CCI Faculty Fellow in the Department of Computer Science and the Department of Cyber Security Engineering at George Mason University. He was Farber Endowed Chair in Computer Science and Department Chair at Stevens Institute of Technology. In addition, he was with Sapienza-University of Rome (Italy), Assistant/Associate Professor at Johns Hopkins University (USA), and one of the JHU Information Security Institute founders. He was a researcher at IBM Zurich Research lab (Switzerland) and scientist at the Information Sciences Institute of the University of Southern California (USA). He also briefly worked as visiting professor at Microsoft in Redmond (USA). He received the NSF CAREER Award for his research in privacy and security, and the Google Faculty Research Award, the IBM Faculty Award, and the IEEE CISTC Technical Recognition Award for his research on cloud security. He has contributed to areas such as proxy re-cryptography, anonymous communication, two-party computation, secure storage, and provable data possession. He is currently working on privacy-preserving machine learning and decentralized secure computing based on the blockchain technology.|
+| 10:00 | **Keynote Talk**<br> <a href="https://ateniese.github.io/"><b>Prof. Giuseppe Ateniese</b></a><br>(George Mason University) <br><br><img src="/assets/img/people/Giuseppe_Ateniese.jpeg" width="150"><br><br>**Biography**<br>Giuseppe Ateniese is a Professor, Eminent Scholar in Cybersecurity and CCI Faculty Fellow in the Department of Computer Science and the Department of Cyber Security Engineering at George Mason University. He was Farber Endowed Chair in Computer Science and Department Chair at Stevens Institute of Technology. In addition, he was with Sapienza-University of Rome (Italy), Assistant/Associate Professor at Johns Hopkins University (USA), and one of the JHU Information Security Institute founders. He was a researcher at IBM Zurich Research lab (Switzerland) and scientist at the Information Sciences Institute of the University of Southern California (USA). He also briefly worked as visiting professor at Microsoft in Redmond (USA). He received the NSF CAREER Award for his research in privacy and security, and the Google Faculty Research Award, the IBM Faculty Award, and the IEEE CISTC Technical Recognition Award for his research on cloud security. He has contributed to areas such as proxy re-cryptography, anonymous communication, two-party computation, secure storage, and provable data possession. He is currently working on privacy-preserving machine learning and decentralized secure computing based on the blockchain technology.|
 | 11:00 | **Lightning Talks** |
 | 12:00 | **Lunch and Student Poster Session** |
 | 1:30 | **Speed Advising** <br> Speed advising sessions enable students to meet for 15 minutes each with faculty from other universities. Mentors will stay in place, and students will come to them |
@@ -47,22 +47,26 @@ To Be Announced Soon!<br><br>
 {: .table}
 {: .table-striped}
 
-# Keynote Speaker
-<div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Prof. Giuseppe Ateniese" affiliation="George Mason University" url="https://ateniese.github.io/" img="/assets/img/people/Giuseppe_Ateniese.jpeg" %}
-</div>
+## Organizers
 
-
-# Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Peng Gao" affiliation="Virginia Tech" url="https://people.cs.vt.edu/penggao/" img="/assets/img/people/penggao.jpg" %}
   {% include people_horizontal.html name="Wajih Ul Hassan" affiliation="University of Virginia" url="https://www.cs.virginia.edu/~hur7wv/" img="/assets/img/people/wajih-2.jpg" %}
 </div>
 
-# Student Organizers
+## Student Organizers
+
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Osama Bajaber" affiliation="Virginia Tech" url="https://obajaber.github.io" img="/assets/img/people/Osama-2.png" %}
   {% include people_horizontal.html name="Saimon Tsegai" affiliation="Virginia Tech" url="https://49simoney.vercel.app" img="/assets/img/people/saimon.jpeg" %}
   {% include people_horizontal.html name="Muhammad Shoaib" affiliation="University of Virginia" url="https://www.linkedin.com/in/mshoaib6/" img="/assets/img/people/shoaib.jpeg" %}
   {% include people_horizontal.html name="Mati Ur Rehman" affiliation="University of Virginia" url="https://www.linkedin.com/in/mati-ur-rehman-02949a157/" img="/assets/img/people/mati.jpeg" %}
+</div>
+
+## Sponsors
+
+<div class="container" style="max-width: 300px; margin-left: 0;">
+  <a href="https://cyberinitiative.org/">
+    <img src="/assets/img/cci_logo.png" class="img-fluid" alt="CCI" style="filter: drop-shadow(0px 0px 3px rgba(255, 255, 255, 0.6));">
+  </a>
 </div>
