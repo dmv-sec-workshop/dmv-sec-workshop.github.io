@@ -62,7 +62,7 @@ Click [here](https://virginia.az1.qualtrics.com/jfe/form/SV_3eAm85xi487tFlQ) for
 ## Student Organizers
 
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Saimon Tsegai" affiliation="Virginia Tech" url="https://49simoney.vercel.app" img="/assets/img/people/saimon.jpeg" %}
+  {% include people_horizontal.html name="Saimon Tsegai" affiliation="Virginia Tech" url="https://49simoney.vercel.app" img="/assets/img/people/saimon-2.jpeg" %}
   {% include people_horizontal.html name="Osama Bajaber" affiliation="Virginia Tech" url="https://obajaber.github.io" img="/assets/img/people/Osama-2.png" %}
   {% include people_horizontal.html name="Muhammad Shoaib" affiliation="University of Virginia" url="https://www.linkedin.com/in/mshoaib6/" img="/assets/img/people/shoaib.jpeg" %}
   {% include people_horizontal.html name="Mati Ur Rehman" affiliation="University of Virginia" url="https://www.linkedin.com/in/mati-ur-rehman-02949a157/" img="/assets/img/people/mati.jpeg" %}
