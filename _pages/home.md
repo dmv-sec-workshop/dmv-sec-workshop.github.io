@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-home_title: <b>DMV Security Workshop 2025</b>
+home_title: <br><b>DMV Security Workshop 2025</b>
 subtitle:
 nav_title: Home
 permalink: /
