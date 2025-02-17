@@ -55,8 +55,8 @@ Click [here](https://virginia.az1.qualtrics.com/jfe/form/SV_3eAm85xi487tFlQ) for
 ## Organizers
 
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Peng Gao" affiliation="Virginia Tech" url="https://people.cs.vt.edu/penggao/" img="/assets/img/people/penggao.jpg" %}
-  {% include people_horizontal.html name="Wajih Ul Hassan" affiliation="University of Virginia" url="https://www.cs.virginia.edu/~hur7wv/" img="/assets/img/people/wajih-2.jpg" %}
+  {% include people_horizontal.html name="Peng Gao" affiliation="Virginia Tech" url="https://people.cs.vt.edu/penggao/" img="/assets/img/people/penggao_new.jpeg" %}
+  {% include people_horizontal.html name="Wajih Ul Hassan" affiliation="University of Virginia" url="https://www.cs.virginia.edu/~hur7wv/" img="/assets/img/people/wajih-3.jpg" %}
 </div>
 
 ## Student Organizers
