@@ -33,7 +33,7 @@ The event is open to all researchers in the field from the DMV area. To encourag
 
 ## Registration
 
-Click [here](https://virginia.az1.qualtrics.com/jfe/form/SV_3eAm85xi487tFlQ) for free registration. Please note that the deadline to register is **March 17th, 2025**<br><br>
+<s>Click here for free registration. Please note that the deadline to register is March 17th, 2025</s><br>
 
 ## Schedule
 
