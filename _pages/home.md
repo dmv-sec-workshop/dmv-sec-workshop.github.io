@@ -18,6 +18,21 @@ description: Explore the forefront of security research at our exclusive worksho
 ">
 </div>
 
+`UPDATE:` The DMV Security Workshop 2025 was a great success! Thank you to all the speakers and attendees, and a special thanks to our sponsor, the Commonwealth Cyber Initiative, for their generous support.
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <img src="/assets/img/dmv-workshop-2025-2.jpg" class="img-fluid" alt="Group image">
+    </div>
+    <div class="col-md-6">
+      <img src="/assets/img/dmv-workshop-2025.jpg" class="img-fluid" alt="Group image">
+    </div>
+  </div>
+</div>
+
+<br>
+
 ## Workshop at a Glance
 
 The DMV Security Workshop is launching its second event in the 2024-2025 academic year! This series aims to unite researchers in computer security and privacy from `Washington, D.C.`, `Maryland`, and `Virginia`.
