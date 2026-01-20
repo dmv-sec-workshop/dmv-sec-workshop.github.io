@@ -9,7 +9,7 @@ description: Explore the forefront of security research at our exclusive worksho
 ---
 
 <div style="
-    background-image: url('/assets/img/VT.jpg');
+    background-image: url('/assets/img/GT.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center -5em;
@@ -26,7 +26,8 @@ The DMV Security Workshop returns for the 2025-2026 academic year to unite resea
 
 ## Venue
 
-Venue and room details will be announced soon (DMV region). Check back for the exact address and floor information.
+**Georgetown University Capitol Campus** <br>
+**500 1st St NW, Washington, DC** <br>
 
 ## Registration
 
@@ -45,14 +46,15 @@ Registration will open soon. The sign-up link and deadlines will be posted here 
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Peng Gao" affiliation="Virginia Tech" url="https://people.cs.vt.edu/penggao/" img="/assets/img/people/penggao_new.jpeg" %}
   {% include people_horizontal.html name="Wajih Ul Hassan" affiliation="University of Virginia" url="https://www.cs.virginia.edu/~hur7wv/" img="/assets/img/people/wajih-3.jpg" %}
+  {% include people_horizontal.html name="Benjamin E. Ujcich" affiliation="Georgetown University" url="https://personal.benujcich.georgetown.domains/" img="/assets/img/people/ben.jpg" %}
 </div>
 
 ## Student Organizers
 
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Muhammad Shoaib" affiliation="University of Virginia" url="https://www.linkedin.com/in/mshoaib6/" img="/assets/img/people/shoaib.jpeg" %}
-  {% include people_horizontal.html name="Saimon Tsegai" affiliation="Virginia Tech" url="https://49simoney.vercel.app" img="/assets/img/people/saimon-2.jpeg" %}
-  {% include people_horizontal.html name="Osama Bajaber" affiliation="Virginia Tech" url="https://obajaber.github.io" img="/assets/img/people/Osama-2.png" %}
+  {% include people_horizontal.html name="Muhammad Shoaib" affiliation="University of Virginia" url="https://muhammad-shoaib.com/" img="/assets/img/people/shoaib.jpeg" role="Publicity Chair" %}
+  {% include people_horizontal.html name="Dhiraj Saharia" affiliation="Georgetown University" url="https://dsaharia.com/" img="/assets/img/people/dhiraj.png" role="Poster Chair" %}
+  {% include people_horizontal.html name="Saimon Tsegai" affiliation="Virginia Tech" url="https://49simoney.vercel.app" img="/assets/img/people/saimon-2.jpeg" role="Finance Chair" %}
 </div>
 
 ## Sponsor
