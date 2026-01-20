@@ -5,6 +5,8 @@ nav: true
 nav_order: 2
 dropdown: true
 children:
+    - title: 2025
+      permalink: /previous-event-2025/
     - title: 2024
       permalink: /previous-event-2024/
     # - title: divider
