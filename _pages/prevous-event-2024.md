@@ -58,15 +58,13 @@ The event is open to all researchers in the field from the DMV area. To encourag
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Wajih Ul Hassan" affiliation="University of Virginia" url="https://www.cs.virginia.edu/~hur7wv/" img="/assets/img/people/wajih-2.jpg" %}
   {% include people_horizontal.html name="Peng Gao" affiliation="Virginia Tech" url="https://people.cs.vt.edu/penggao/" img="/assets/img/people/penggao.jpg" %}
-  {% include people_horizontal.html name="Benjamin E. Ujcich" affiliation="Georgetown University" url="https://personal.benujcich.georgetown.domains/" img="/assets/img/people/ben.jpg" %}
 </div>
 
 # Student Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Muhammad Shoaib" affiliation="University of Virginia" url="https://muhammad-shoaib.com/" img="/assets/img/people/shoaib.jpeg" role="Publicity Chair" %}
-  {% include people_horizontal.html name="Dhiraj Saharia" affiliation="Georgetown University" url="https://dsaharia.com/" img="/assets/img/people/dhiraj.png" role="Poster Chair" %}
-  {% include people_horizontal.html name="Saimon Tsegai" affiliation="Virginia Tech" url="https://49simoney.vercel.app" img="/assets/img/people/saimon-2.jpeg" role="Finance Chair" %}
+  {% include people_horizontal.html name="Muhammad Shoaib" affiliation="University of Virginia" url="https://www.linkedin.com/in/mshoaib6/" img="/assets/img/people/shoaib.jpeg" %}
   {% include people_horizontal.html name="Anne Zhang" affiliation="University of Virginia" url="https://www.linkedin.com/in/anne-zhang1204/" img="/assets/img/people/anne-2.png" %}
   {% include people_horizontal.html name="Mati Ur Rehman" affiliation="University of Virginia" url="https://www.linkedin.com/in/mati-ur-rehman-02949a157/" img="/assets/img/people/mati.jpeg" %}
   {% include people_horizontal.html name="Yutong Cheng" affiliation="Virginia Tech" url="https://ccsnow127.github.io" img="/assets/img/people/yutong-2.jpg" %}
+  {% include people_horizontal.html name="Osama Bajaber" affiliation="Virginia Tech" url="https://obajaber.github.io" img="/assets/img/people/Osama-2.png" %}
 </div>
