@@ -37,6 +37,8 @@ Registration will open soon. The sign-up link and deadlines will be posted here 
 
 | **Time (EST)**{: .h5} |
 | :----- |
+| 9:30 | **Registration and Coffee** |
+| 10:00 | **Keynote Speaker:** <a href="https://gufaculty360.georgetown.edu/s/contact/003UH00000ZmP3HYAV/yoshi-kohno"><b>Tadayoshi Kohno</b></a> (<span style="font-style: italic;">Georgetown University</span>)<br><br><img src="/assets/img/yoshi.png" width="150"> |
 | TBD | Full 2026 program coming soon |
 {: .table}
 {: .table-striped}
@@ -59,4 +61,8 @@ Registration will open soon. The sign-up link and deadlines will be posted here 
 
 ## Sponsor
 
-Sponsorship information for 2026 will be announced soon.
+<div class="container" style="max-width: 300px; margin-left: 0;">
+  <a href="https://cyberinitiative.org/">
+    <img src="/assets/img/cci_logo.png" class="img-fluid" alt="CCI" style="filter: drop-shadow(0px 0px 3px rgba(255, 255, 255, 0.6));">
+  </a>
+</div>
