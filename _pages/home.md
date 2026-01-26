@@ -35,11 +35,20 @@ Registration will open soon. The sign-up link and deadlines will be posted here 
 
 ## Schedule
 
+This is a tentative schedule; final details will be posted as they are confirmed.
+
 | **Time (EST)**{: .h5} |
 | :----- |
 | 9:30 | **Registration and Coffee** |
+| 9:50 | **Welcome and Overview** |
 | 10:00 | **Keynote Speaker:** <a href="https://gufaculty360.georgetown.edu/s/contact/003UH00000ZmP3HYAV/yoshi-kohno"><b>Tadayoshi Kohno</b></a> (<span style="font-style: italic;">Georgetown University</span>)<br><br><img src="/assets/img/yoshi.png" width="150"> |
-| TBD | Full 2026 program coming soon |
+| 11:00 | **Lightning Talks** (faculty & student highlights) |
+| 12:00 | **Lunch and Student Poster Session** |
+| 1:30 | **Speed Advising** |
+| 2:45 | **Break** |
+| 3:00 | **Lightning Talks (continued)** |
+| 3:45 | **NSF Office Hour** |
+| 4:45 | **Concluding Remarks** |
 {: .table}
 {: .table-striped}
 

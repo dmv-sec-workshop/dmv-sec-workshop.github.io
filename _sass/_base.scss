@@ -180,9 +180,14 @@ blockquote {
     }
   }
   .navbar-brand img {
-    height: 70px; /* Adjust as needed */
-    width: 60px; /* Adjust as needed */
-    margin-right: 20px; /* Adjust as needed */
+    height: 82px;
+    width: auto;
+    max-width: 240px;
+    object-fit: contain;
+    margin-right: 18px;
+    background: #fff;
+    padding: 6px 8px;
+    border-radius: 8px;
   }
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
