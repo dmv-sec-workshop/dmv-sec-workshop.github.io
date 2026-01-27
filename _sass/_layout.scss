@@ -11,10 +11,11 @@ body {
     radial-gradient(circle at 18% 20%, rgba($brand-teal, 0.14) 0, rgba($brand-teal, 0) 38%),
     radial-gradient(circle at 82% 8%, rgba($brand-magenta, 0.14) 0, rgba($brand-magenta, 0) 40%),
     linear-gradient(135deg, rgba($brand-indigo, 0.18) 0%, rgba($brand-teal, 0.16) 45%, rgba($brand-magenta, 0.18) 100%),
-    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='4' seed='3'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.045'/%3E%3C/svg%3E");
-  background-size: 1200px 1200px, 1200px 1200px, 100% 100%, 240px 240px;
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Cfilter id='n1'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' seed='5'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n1)' opacity='0.08'/%3E%3C/svg%3E"),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 80 80'%3E%3Cfilter id='n2'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' seed='11'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n2)' opacity='0.06'/%3E%3C/svg%3E");
+  background-size: 1200px 1200px, 1200px 1200px, 100% 100%, 220px 220px, 120px 120px;
   background-attachment: fixed;
-  background-blend-mode: screen, screen, normal, multiply;
+  background-blend-mode: screen, screen, normal, multiply, multiply;
   min-height: 100vh;
 
   h1, h2, h3, h4, h5, h6 {
@@ -34,6 +35,9 @@ body.sticky-bottom-footer {
 
 .container {
   max-width: $max-content-width;
+  &.mt-5 {
+    margin-top: 1.25rem !important;
+  }
 }
 
 // Profile

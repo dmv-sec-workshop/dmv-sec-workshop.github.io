@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-home_title: <br><b>DMV Security Workshop 2026</b>
+home_title: <br>DMV Security Workshop 2026
 subtitle:
 nav_title: Home
 permalink: /
@@ -14,7 +14,7 @@ description:
     background-size: cover;
     background-position: center -5em;
     height: 28em;
-    margin-bottom: 2.5em;
+    margin-bottom: 1.6em;
     border-radius: 16px;
     box-shadow: 0 8px 24px rgba(93, 69, 162, 0.15);
     overflow: hidden;">
