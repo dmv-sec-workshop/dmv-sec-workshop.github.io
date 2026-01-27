@@ -12,9 +12,9 @@ description:
     background-image: url('/assets/img/gt-capitol-campus.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center -4em;
-    height: 24em;
-    margin-bottom: 1.4em;
+    background-position: center -5em;
+    height: 26em;
+    margin-bottom: 1.6em;
     border-radius: 16px;
     box-shadow: 0 8px 24px rgba(93, 69, 162, 0.15);
     overflow: hidden;">
