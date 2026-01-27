@@ -13,8 +13,11 @@ description:
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center -5em;
-    height: 31em;
-    margin-bottom: 2em;">
+    height: 28em;
+    margin-bottom: 2.5em;
+    border-radius: 16px;
+    box-shadow: 0 8px 24px rgba(93, 69, 162, 0.15);
+    overflow: hidden;">
 </div>
 
 `UPDATE:` The DMV Security Workshop 2026 is coming soon. Save the date; details on venue, registration, and the full program will be posted here as they are confirmed.
