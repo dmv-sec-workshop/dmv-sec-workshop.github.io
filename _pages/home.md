@@ -42,18 +42,23 @@ description:
   <section class="info-card wide" id="schedule">
     <h2>Schedule</h2>
     <p>This is a tentative schedule; final details will be posted as they are confirmed.</p>
-    <ul class="schedule-list">
-      <li><span class="time">9:30</span><span class="detail"><strong>Registration and Coffee</strong></span></li>
-      <li><span class="time">9:50</span><span class="detail"><strong>Welcome and Overview</strong></span></li>
-      <li><span class="time">10:00</span><span class="detail"><strong>Keynote:</strong> <a href="https://gufaculty360.georgetown.edu/s/contact/003UH00000ZmP3HYAV/yoshi-kohno"><b>Tadayoshi Kohno</b></a> <em>(Georgetown University)</em><br><img src="/assets/img/yoshi.png" width="140" alt="Keynote speaker" class="schedule-img"></span></li>
-      <li><span class="time">11:00</span><span class="detail"><strong>Lightning Talks</strong> (faculty & student highlights)</span></li>
-      <li><span class="time">12:00</span><span class="detail"><strong>Lunch & Student Poster Session</strong></span></li>
-      <li><span class="time">1:30</span><span class="detail"><strong>Speed Advising</strong></span></li>
-      <li><span class="time">2:45</span><span class="detail"><strong>Break</strong></span></li>
-      <li><span class="time">3:00</span><span class="detail"><strong>Lightning Talks (continued)</strong></span></li>
-      <li><span class="time">3:45</span><span class="detail"><strong>NSF Office Hour</strong></span></li>
-      <li><span class="time">4:45</span><span class="detail"><strong>Concluding Remarks</strong></span></li>
-    </ul>
+    <table class="table table-striped" style="width: 100%;">
+      <thead>
+        <tr><th scope="col">Time (EST)</th><th scope="col"></th></tr>
+      </thead>
+      <tbody>
+        <tr><td>9:30</td><td><strong>Registration and Coffee</strong></td></tr>
+        <tr><td>9:50</td><td><strong>Welcome and Overview</strong></td></tr>
+        <tr><td>10:00</td><td><strong>Keynote:</strong> <a href="https://gufaculty360.georgetown.edu/s/contact/003UH00000ZmP3HYAV/yoshi-kohno"><b>Tadayoshi Kohno</b></a> <em>(Georgetown University)</em><br><img src="/assets/img/yoshi.png" width="140" alt="Keynote speaker"></td></tr>
+        <tr><td>11:00</td><td><strong>Lightning Talks</strong> (faculty & student highlights)</td></tr>
+        <tr><td>12:00</td><td><strong>Lunch & Student Poster Session</strong></td></tr>
+        <tr><td>1:30</td><td><strong>Speed Advising</strong></td></tr>
+        <tr><td>2:45</td><td><strong>Break</strong></td></tr>
+        <tr><td>3:00</td><td><strong>Lightning Talks (continued)</strong></td></tr>
+        <tr><td>3:45</td><td><strong>NSF Office Hour</strong></td></tr>
+        <tr><td>4:45</td><td><strong>Concluding Remarks</strong></td></tr>
+      </tbody>
+    </table>
   </section>
 </div>
 
