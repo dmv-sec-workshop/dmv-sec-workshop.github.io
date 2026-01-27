@@ -8,6 +8,26 @@ p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
 }
 
+.post-header {
+  h1.post-title {
+    font-size: clamp(2.2rem, 4vw, 3.2rem);
+    font-weight: 800;
+    letter-spacing: 0.01em;
+    line-height: 1.05;
+    margin-bottom: 0.25rem;
+    background: linear-gradient(120deg, $brand-indigo 0%, $brand-teal 50%, $brand-magenta 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 12px 28px rgba($brand-indigo, 0.08);
+  }
+
+  h4.post-title {
+    color: var(--global-text-color);
+    opacity: 0.8;
+    font-weight: 500;
+  }
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -76,6 +96,46 @@ blockquote {
     padding-top: 1rem;
     margin-bottom: 1rem;
     border-top: 1px solid var(--global-divider-color);
+  }
+}
+
+// Three-up info cards on home
+.info-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.25rem;
+  margin: 2rem 0 2.5rem;
+}
+
+.info-card {
+  background: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 16px;
+  padding: 1.4rem 1.5rem;
+  box-shadow: 0 14px 32px rgba($brand-indigo, 0.08);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 16px 40px rgba($brand-indigo, 0.12);
+  }
+
+  h2 {
+    margin-top: 0;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+
+  &.wide {
+    grid-column: span 2;
+  }
+}
+
+@media (max-width: 768px) {
+  .info-card.wide {
+    grid-column: span 1;
   }
 }
 

@@ -24,33 +24,40 @@ description:
 
 The DMV Security Workshop returns for the 2025-2026 academic year to unite researchers in computer security and privacy from `Washington, D.C.`, `Maryland`, and `Virginia`. Expect an in-person event with a keynote, lightning talks, speed advising, and breakout discussions focused on building collaborations across the DMV community. Registration will remain free to encourage broad participation.
 
-## Venue
+<div class="info-cards">
+  <section class="info-card">
+    <h2>Venue</h2>
+    <p><strong>Georgetown University Capitol Campus</strong><br>
+    <strong>500 1st St NW, Washington, DC</strong></p>
+  </section>
 
-**Georgetown University Capitol Campus** <br>
-**500 1st St NW, Washington, DC** <br>
+  <section class="info-card">
+    <h2>Registration</h2>
+    <p>Registration will open soon. The sign-up link and deadlines will be posted here once finalized.</p>
+  </section>
 
-## Registration
-
-Registration will open soon. The sign-up link and deadlines will be posted here once finalized.
-
-## Schedule
-
-This is a tentative schedule; final details will be posted as they are confirmed.
-
-| **Time (EST)**{: .h5} |
-| :----- |
-| 9:30 | **Registration and Coffee** |
-| 9:50 | **Welcome and Overview** |
-| 10:00 | **Keynote Speaker:** <a href="https://gufaculty360.georgetown.edu/s/contact/003UH00000ZmP3HYAV/yoshi-kohno"><b>Tadayoshi Kohno</b></a> (<span style="font-style: italic;">Georgetown University</span>)<br><br><img src="/assets/img/yoshi.png" width="150"> |
-| 11:00 | **Lightning Talks** (faculty & student highlights) |
-| 12:00 | **Lunch and Student Poster Session** |
-| 1:30 | **Speed Advising** |
-| 2:45 | **Break** |
-| 3:00 | **Lightning Talks (continued)** |
-| 3:45 | **NSF Office Hour** |
-| 4:45 | **Concluding Remarks** |
-{: .table}
-{: .table-striped}
+  <section class="info-card wide">
+    <h2>Schedule</h2>
+    <p>This is a tentative schedule; final details will be posted as they are confirmed.</p>
+    <table class="table table-striped" style="width: 100%;">
+      <thead>
+        <tr><th scope="col">Time (EST)</th><th scope="col"></th></tr>
+      </thead>
+      <tbody>
+        <tr><td>9:30</td><td><strong>Registration and Coffee</strong></td></tr>
+        <tr><td>9:50</td><td><strong>Welcome and Overview</strong></td></tr>
+        <tr><td>10:00</td><td><strong>Keynote Speaker:</strong> <a href="https://gufaculty360.georgetown.edu/s/contact/003UH00000ZmP3HYAV/yoshi-kohno"><b>Tadayoshi Kohno</b></a> (<span style="font-style: italic;">Georgetown University</span>)<br><br><img src="/assets/img/yoshi.png" width="150" alt="Keynote speaker"></td></tr>
+        <tr><td>11:00</td><td><strong>Lightning Talks</strong> (faculty & student highlights)</td></tr>
+        <tr><td>12:00</td><td><strong>Lunch and Student Poster Session</strong></td></tr>
+        <tr><td>1:30</td><td><strong>Speed Advising</strong></td></tr>
+        <tr><td>2:45</td><td><strong>Break</strong></td></tr>
+        <tr><td>3:00</td><td><strong>Lightning Talks (continued)</strong></td></tr>
+        <tr><td>3:45</td><td><strong>NSF Office Hour</strong></td></tr>
+        <tr><td>4:45</td><td><strong>Concluding Remarks</strong></td></tr>
+      </tbody>
+    </table>
+  </section>
+</div>
 
 ## Organizers
 
