@@ -50,6 +50,35 @@ blockquote {
   font-size: 1.2rem;
 }
 
+// Section headings
+.post-content {
+  h2 {
+    position: relative;
+    margin-top: 3rem;
+    padding-top: 1.5rem;
+    margin-bottom: 1.25rem;
+
+    &::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 82px;
+      height: 4px;
+      border-radius: 999px;
+      background: linear-gradient(90deg, $brand-indigo, $brand-teal 55%, $brand-magenta);
+      box-shadow: 0 6px 18px rgba($brand-indigo, 0.12);
+    }
+  }
+
+  h3 {
+    margin-top: 2.25rem;
+    padding-top: 1rem;
+    margin-bottom: 1rem;
+    border-top: 1px solid var(--global-divider-color);
+  }
+}
+
 // Math
 
 .equation {
@@ -144,8 +173,8 @@ blockquote {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
-  opacity: 0.95;
-  height: 100px; /* Increase this value to make the navigation bar taller */
+  opacity: 0.96;
+  height: 72px;
 }
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
@@ -180,14 +209,14 @@ blockquote {
     }
   }
   .navbar-brand img {
-    height: 82px;
+    height: 58px;
     width: auto;
-    max-width: 240px;
+    max-width: 190px;
     object-fit: contain;
-    margin-right: 18px;
+    margin-right: 12px;
     background: #fff;
-    padding: 6px 8px;
-    border-radius: 8px;
+    padding: 4px 6px;
+    border-radius: 10px;
   }
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
@@ -195,7 +224,9 @@ blockquote {
       color: var(--global-hover-color);
     }
     /* adjust the padding to move the text */
-    padding: 21px 20px;
+    padding: 14px 14px;
+    font-size: 0.98rem;
+    letter-spacing: 0.01em;
   }
   .navbar-nav .nav-item.active>.nav-link {
       background-color: inherit;
@@ -294,14 +325,17 @@ blockquote {
 
 
 // Footer
-footer.fixed-bottom {
+.site-footer {
   background-color: var(--global-footer-bg-color);
-  font-size: 0.75rem;
+  border-top: 1px solid var(--global-divider-color);
+  padding-top: 32px;
+  padding-bottom: 32px;
+  font-size: 0.9rem;
+
   .container {
     color: var(--global-footer-text-color);
-    padding-top: 9px;
-    padding-bottom: 8px;
   }
+
   a {
     color: var(--global-footer-link-color);
     &:hover {
@@ -309,13 +343,6 @@ footer.fixed-bottom {
       text-decoration: none;
     }
   }
-}
-
-footer.sticky-bottom {
-  border-top: 1px solid var(--global-divider-color);
-  padding-top: 40px;
-  padding-bottom: 40px;
-  font-size: 0.9rem;
 }
 
 // CV

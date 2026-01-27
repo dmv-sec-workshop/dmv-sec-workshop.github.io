@@ -5,8 +5,16 @@
 body {
   padding-bottom: 70px;
   color: var(--global-text-color);
-  background: linear-gradient(135deg, rgba(93, 69, 162, 0.03) 0%, rgba(78, 177, 186, 0.05) 50%, rgba(157, 75, 149, 0.03) 100%), #f8f9fc;
+  background-color: var(--global-bg-color);
+  // Layered gradient + grain to lean into brand colors while staying subtle
+  background-image:
+    radial-gradient(circle at 18% 20%, rgba($brand-teal, 0.14) 0, rgba($brand-teal, 0) 38%),
+    radial-gradient(circle at 82% 8%, rgba($brand-magenta, 0.14) 0, rgba($brand-magenta, 0) 40%),
+    linear-gradient(135deg, rgba($brand-indigo, 0.18) 0%, rgba($brand-teal, 0.16) 45%, rgba($brand-magenta, 0.18) 100%),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='4' seed='3'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.045'/%3E%3C/svg%3E");
+  background-size: 1200px 1200px, 1200px 1200px, 100% 100%, 240px 240px;
   background-attachment: fixed;
+  background-blend-mode: screen, screen, normal, multiply;
   min-height: 100vh;
 
   h1, h2, h3, h4, h5, h6 {

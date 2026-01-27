@@ -20,8 +20,6 @@ description:
     overflow: hidden;">
 </div>
 
-`UPDATE:` The DMV Security Workshop 2026 is coming soon. Save the date; details on venue, registration, and the full program will be posted here as they are confirmed.
-
 ## Workshop at a Glance
 
 The DMV Security Workshop returns for the 2025-2026 academic year to unite researchers in computer security and privacy from `Washington, D.C.`, `Maryland`, and `Virginia`. Expect an in-person event with a keynote, lightning talks, speed advising, and breakout discussions focused on building collaborations across the DMV community. Registration will remain free to encourage broad participation.
