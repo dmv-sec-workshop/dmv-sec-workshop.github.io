@@ -20,9 +20,12 @@ description:
     overflow: hidden;">
 </div>
 
-## Workshop at a Glance
-
-The DMV Security Workshop returns for the 2025-2026 academic year to unite researchers in computer security and privacy from `Washington, D.C.`, `Maryland`, and `Virginia`. Expect an in-person event with a keynote, lightning talks, speed advising, and breakout discussions focused on building collaborations across the DMV community. Registration will remain free to encourage broad participation.
+<div class="info-cards">
+  <section class="info-card">
+    <h2>Workshop at a Glance</h2>
+    <p>The DMV Security Workshop returns for the 2025-2026 academic year to unite researchers in computer security and privacy from <code>Washington, D.C.</code>, <code>Maryland</code>, and <code>Virginia</code>. Expect an in-person event with a keynote, lightning talks, speed advising, and breakout discussions focused on building collaborations across the DMV community. Registration will remain free to encourage broad participation.</p>
+  </section>
+</div>
 
 <div class="info-cards">
   <section class="info-card">
