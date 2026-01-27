@@ -4,7 +4,12 @@
  ******************************************************************************/
 
 
-// Colors
+// Brand Colors (from logo)
+$brand-indigo:        #5D45A2 !default; // Primary - Hero backgrounds, main buttons
+$brand-teal:          #4EB1BA !default; // Secondary - Links and accents
+$brand-magenta:       #9D4B95 !default; // Accent - Hover states and highlights
+
+// Additional Colors
 $red-color:           #FF3636 !default;
 $red-color-dark:      #B71C1C !default;
 $orange-color:        #F29105 !default;

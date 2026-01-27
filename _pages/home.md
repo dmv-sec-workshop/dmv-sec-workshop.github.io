@@ -5,17 +5,16 @@ home_title: <br><b>DMV Security Workshop 2026</b>
 subtitle:
 nav_title: Home
 permalink: /
-description: Explore the forefront of security research at our exclusive workshop, uniting aspiring researchers from Washington D.C., Maryland, and Virginia.
+description:
 ---
 
 <div style="
-    background-image: url('/assets/img/GT.jpg');
+    background-image: url('/assets/img/gt-capitol-campus.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center -5em;
     height: 31em;
-    margin-bottom: 2em;
-">
+    margin-bottom: 2em;">
 </div>
 
 `UPDATE:` The DMV Security Workshop 2026 is coming soon. Save the date; details on venue, registration, and the full program will be posted here as they are confirmed.
