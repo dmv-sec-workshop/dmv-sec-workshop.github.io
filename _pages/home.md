@@ -55,7 +55,6 @@ description:
         <tr><td>1:30</td><td><strong>Speed Advising</strong></td></tr>
         <tr><td>2:45</td><td><strong>Break</strong></td></tr>
         <tr><td>3:00</td><td><strong>Lightning Talks (continued)</strong></td></tr>
-        <tr><td>3:45</td><td><strong>NSF Office Hour</strong></td></tr>
         <tr><td>4:45</td><td><strong>Concluding Remarks</strong></td></tr>
       </tbody>
     </table>
