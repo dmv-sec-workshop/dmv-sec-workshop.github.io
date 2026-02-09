@@ -23,7 +23,7 @@ description:
 <div class="info-cards">
   <section class="info-card">
     <h2>Workshop at a Glance</h2>
-    <p>The DMV Security Workshop returns for the 2025-2026 academic year to unite researchers in computer security and privacy from <code>Washington, D.C.</code>, <code>Maryland</code>, and <code>Virginia</code>. Expect an in-person event with a keynote, lightning talks, speed advising, and breakout discussions focused on building collaborations across the DMV community. Registration will remain free to encourage broad participation.</p>
+    <p>The DMV Security Workshop returns for the 2025-2026 academic year on <strong>20 March 2026</strong> to unite researchers in computer security and privacy from <code>Washington, D.C.</code>, <code>Maryland</code>, and <code>Virginia</code>. Expect an in-person event with a keynote, lightning talks, speed advising, and breakout discussions focused on building collaborations across the DMV community. Registration will remain free to encourage broad participation.</p>
   </section>
 </div>
 
@@ -36,7 +36,7 @@ description:
 
   <section class="info-card" id="registration">
     <h2>Registration</h2>
-    <p>Registration will open soon. The sign-up link and deadlines will be posted here once finalized.</p>
+    <p>Registration is open. Sign up here: <a href="https://tinyurl.com/DMVSEC26">https://tinyurl.com/DMVSEC26</a></p>
   </section>
 
   <section class="info-card wide" id="schedule">
