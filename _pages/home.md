@@ -9,11 +9,13 @@ description:
 ---
 
 <div style="
-    background-image: url('/assets/img/gt-capitol-campus.jpg');
+    background-image: url('/assets/img/GT-2.png');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center -5em;
-    height: 26em;
+    background-position: center;
+    aspect-ratio: 1915 / 1074;
+    width: 100%;
+    height: auto;
     margin-bottom: 1.6em;
     border-radius: 16px;
     box-shadow: 0 8px 24px rgba(93, 69, 162, 0.15);
