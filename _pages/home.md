@@ -55,8 +55,8 @@ description:
         <tr><td>11:00</td><td><strong>Lightning Talks</strong> (faculty & student highlights)</td></tr>
         <tr><td>12:00</td><td><strong>Lunch & Student Poster Session</strong></td></tr>
         <tr><td>1:30</td><td><strong>Speed Advising</strong></td></tr>
-        <tr><td>2:45</td><td><strong>Break</strong></td></tr>
-        <tr><td>3:00</td><td><strong>Lightning Talks (continued)</strong></td></tr>
+        <tr><td>2:30</td><td><strong>NSF Office Hours &amp; Break</strong></td></tr>
+        <tr><td>3:30</td><td><strong>Lightning Talks (continued)</strong></td></tr>
         <tr><td>4:45</td><td><strong>Concluding Remarks</strong></td></tr>
       </tbody>
     </table>
