@@ -53,9 +53,9 @@ description:
         <tr><td>9:50</td><td><strong>Welcome and Overview</strong></td></tr>
         <tr><td>10:00</td><td><strong>Keynote:</strong> <a href="https://gufaculty360.georgetown.edu/s/contact/003UH00000ZmP3HYAV/yoshi-kohno"><b>Tadayoshi Kohno</b></a> <em>(Georgetown University)</em><br><img src="/assets/img/yoshi.png" width="140" alt="Keynote speaker"></td></tr>
         <tr><td>11:00</td><td><strong>Lightning Talks</strong> (faculty & student highlights)</td></tr>
-        <tr><td>12:00</td><td><strong>Lunch & Student Poster Session</strong></td></tr>
+        <tr><td>12:00</td><td><strong>Lunch & Student Poster Session</strong><br><em>A Best Poster Award, sponsored by CCI, will be given to an outstanding poster presentation.</em></td></tr>
         <tr><td>1:30</td><td><strong>Speed Advising</strong></td></tr>
-        <tr><td>2:30</td><td><strong>NSF Office Hours &amp; Break</strong></td></tr>
+        <tr><td>2:30</td><td><strong>NSF Office Hours &amp; Break</strong><br>Dr. Selcuk Uluagac <em>(Program Director, SaTC)</em><br>Dr. Qiaoyan Yu <em>(Program Director, SaTC)</em></td></tr>
         <tr><td>3:30</td><td><strong>Lightning Talks (continued)</strong></td></tr>
         <tr><td>4:45</td><td><strong>Concluding Remarks</strong></td></tr>
       </tbody>
