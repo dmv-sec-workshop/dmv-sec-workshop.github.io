@@ -43,7 +43,6 @@ description:
 
   <section class="info-card wide" id="schedule">
     <h2>Schedule</h2>
-    <p>This is a tentative schedule; final details will be posted as they are confirmed.</p>
     <table class="table table-striped" style="width: 100%;">
       <thead>
         <tr><th scope="col">Time (EST)</th><th scope="col"></th></tr>
