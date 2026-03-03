@@ -38,7 +38,7 @@ description:
 
   <section class="info-card" id="registration">
     <h2>Registration</h2>
-    <p>Registration is open. Sign up here: <a href="https://tinyurl.com/DMVSEC26">https://tinyurl.com/DMVSEC26</a></p>
+    <p>Registration is open. Deadline: <strong>9 March 2026</strong>. Sign up here: <a href="https://tinyurl.com/DMVSEC26">https://tinyurl.com/DMVSEC26</a></p>
   </section>
 
   <section class="info-card wide" id="schedule">
