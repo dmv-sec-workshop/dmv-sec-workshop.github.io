@@ -36,9 +36,9 @@ description:
     <strong>500 1st St NW, Washington, DC</strong></p>
   </section>
 
-  <section class="info-card" id="registration">
+  <section class="info-card" id="registration" style="min-width: 340px;">
     <h2>Registration</h2>
-    <p>Registration is open. Deadline: <strong>9 March 2026</strong>. Sign up here: <a href="https://tinyurl.com/DMVSEC26">https://tinyurl.com/DMVSEC26</a></p>
+    <p><span style="white-space: nowrap;">Registration is open. Deadline: <strong>9 March 2026 (Monday)</strong>.</span><br>Sign up here: <a href="https://tinyurl.com/DMVSEC26">https://tinyurl.com/DMVSEC26</a></p>
   </section>
 
   <section class="info-card wide" id="schedule">
