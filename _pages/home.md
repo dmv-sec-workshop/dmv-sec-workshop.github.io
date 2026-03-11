@@ -50,7 +50,7 @@ description:
       <tbody>
         <tr><td>9:30</td><td><strong>Registration and Coffee</strong></td></tr>
         <tr><td>9:50</td><td><strong>Welcome and Overview</strong></td></tr>
-        <tr><td>10:00</td><td><strong>Keynote:</strong> <a href="https://www.cc.gatech.edu/people/jeremy-epstein"><b>Jeremy Epstein</b></a> <em>(Georgia Tech)</em><br><img src="/assets/img/jeremy.jpg" width="140" alt="Keynote speaker"></td></tr>
+        <tr><td>10:00</td><td><strong>Keynote:</strong> <a href="https://www.cc.gatech.edu/people/jeremy-epstein"><b>Jeremy Epstein</b></a> <em>(Georgia Tech)</em><br><img src="/assets/img/jeremy.jpg" width="140" alt="Keynote speaker"><br><em>Title: "Think About It: Safety and Privacy in Brain Computer Interface devices"</em></td></tr>
         <tr><td>11:00</td><td><strong>Lightning Talks</strong> (faculty & student highlights)</td></tr>
         <tr><td>12:00</td><td><strong>Lunch & Student Poster Session</strong><br><em>A Best Poster Award, sponsored by CCI, will be given to an outstanding poster presentation.</em></td></tr>
         <tr><td>1:30</td><td><strong>Speed Advising</strong></td></tr>
